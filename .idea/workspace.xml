@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60817ce3-265f-4a5f-8bd9-d1e81f0eaabd" name="Changes" comment="this is the first commit today at 9:44">
+    <list default="true" id="60817ce3-265f-4a5f-8bd9-d1e81f0eaabd" name="Changes" comment="im updating the project again">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -67,11 +67,20 @@
       <option name="project" value="LOCAL" />
       <updated>1702968584133</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="im updating the project again">
+      <option name="closed" value="true" />
+      <created>1702969758517</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702969758517</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="this is the first commit today at 9:44" />
-    <option name="LAST_COMMIT_MESSAGE" value="this is the first commit today at 9:44" />
+    <MESSAGE value="im updating the project again" />
+    <option name="LAST_COMMIT_MESSAGE" value="im updating the project again" />
   </component>
 </project>
