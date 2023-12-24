@@ -19,10 +19,14 @@ public class Main {
         // if i want to convert a string into any kind of data type ...
         String my_age = "19";
         Integer.parseInt(my_age);
-        Short.parseShort(my_age)
-        Float.parseFloat(my_age)
+        Short.parseShort(my_age);
+        Float.parseFloat(my_age);
         System.out.println(my_age);
         //..................................................................
+        double result = Math.floor(4.3);
+        System.out.println(result);
+        //.................................................................
+
 
 
 
