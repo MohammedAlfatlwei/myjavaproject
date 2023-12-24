@@ -1,5 +1,5 @@
 public class Main {
-    public static <string> void main(String[] args) {
+    public static void main(String[] args) {
      final float pi = 3.14F;
         System.out.println(pi);
         String clint_name = "mohammed ali mohammed hussain";
@@ -14,13 +14,12 @@ public class Main {
         System.out.println(y);
         // this type called explicit casting
         String greetingmsg = "hello world";
+       System.out.println(greetingmsg);
         //............................................................
         // look at this beautiful shit
-        // if i want to convert a string into any kind of data type ...
+        // if I want to convert a string into any kind of data type ...
         String my_age = "19";
-        Integer.parseInt(my_age);
-        Short.parseShort(my_age);
-        Float.parseFloat(my_age);
+
         System.out.println(my_age);
         //..................................................................
         double result = Math.floor(4.3);
